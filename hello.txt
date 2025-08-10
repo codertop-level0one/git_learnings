@@ -1,4 +1,4 @@
 
-second line to the hello file have been added
+second line to 
 Hello git
 Hello Hii
